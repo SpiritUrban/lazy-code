@@ -1,0 +1,24 @@
+{
+  "name": "lazy-code",
+  "version": "1.0.0",
+  "description": "Super short names and structures. Generator of normal code from lazy-code. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiritUrban/lazy-code.git"
+  },
+  "keywords": [
+    "shortcuts",
+    "generator",
+    "extension"
+  ],
+  "author": "Vitaliy Dyachuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpiritUrban/lazy-code/issues"
+  },
+  "homepage": "https://github.com/SpiritUrban/lazy-code#readme"
+}
