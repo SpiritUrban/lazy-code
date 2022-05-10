@@ -1,6 +1,6 @@
 {
   "name": "lazy-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super short names and structures. Generator of normal code from lazy-code. ",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/SpiritUrban/lazy-code/issues"
   },
-  "homepage": "https://github.com/SpiritUrban/lazy-code#readme"
+  "homepage": "https://github.com/SpiritUrban/lazy-code#readme",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  }
 }
