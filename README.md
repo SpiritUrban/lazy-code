@@ -1,5 +1,5 @@
 # lazy-code
-Super shorn names and structures. Generator of normal code.
+Super short names and structures. Generator of normal code.
 
 ## Installing
 
